@@ -33,5 +33,8 @@ The dataset for this project includes multiple CSV files containing data on abse
 1. Clone the repository: `git clone https://github.com/phillipkay53/Absenteeism-at-Work-Dashboard.git`
 2. Open the Power BI file to explore the dashboard.
 
+## Absenteeism Dashboard Report
+To view the Absenteeism Dashboard Report [click this link](https://github.com/phillipkay53/Absenteeism-at-Work-Dashboard/blob/b3523cfa53cf46e2b1028dd5c6b5980dca140a8e/Docs/Absenteeism%20at%20Work%20Report%20(1).pdf)
+
 ## GitHub Repository
 [Absenteeism at Work Dashboard](https://github.com/phillipkay53/Absenteeism-at-Work-Dashboard.git)
